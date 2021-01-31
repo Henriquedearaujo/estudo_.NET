@@ -1,0 +1,155 @@
+
+
+             # O que é C# e .NET
+
+* C# é uma linguagem orientada a objrtos, que permite 
+  desenvolvedores criarem diversos tpos de aplicaçães
+  que são executadas no ecossistema .NET.
+
+* Foi criado em janeiro de 2002. Ela é uma linguagem de 
+  fácio aprendizagem, principalmente para quem já tem
+  familiaridade com linguagens como java, C C++, e
+  javaScript.
+
+* Oferece suporte a encapisulamento, henrança, e polimorfismo. 
+
+* .NET é uma plataforma gratuita, mult-plataforma, e de 
+  código aberto. Ela tem suporte as linguagens C#, F#(Programação Funcional), e
+  Visual Basic.
+
+* Atualmente na vesão 5, lançada no final de 2020,
+  apresentando ganhas expressivos em performance. 
+
+______________________________________________________________________________________________
+
+            # Tipos de dados
+
+* Tipos de referência: string, classe, array, interface
+
+* Tipos de valor: int, float, long, decimal, char, bool
+
+_______________________________________________________________________________________________
+
+            # Estrutura de controle de fluxo
+
+# Estrutura de fluxo condicional
+* if-else      : se, se não
+* switch       : para
+
+# Estrutura de fluxo repetição
+* while        : enquanto
+* for / foreach:
+
+_______________________________________________________________________________________________
+
+             # Listas e LINQ
+
+* Lista é uma estrutura de dados tipada, que permite 
+  armazenamento múltplos elementos, e que permite acesso
+  por índice.
+
+* Ela possui métodos que permitem realizar manipulações 
+  e pesquisa em seus dados.
+
+* LINQ, ou Language-Intergrated Query, é uma sintaxe para
+  consultas em .NET, compatível com fontes de dados de diferentes fontes
+
+_______________________________________________________________________________________________
+
+             # Métodos populares do LINQ
+
+* Any
+Avalia se na aquela lista tem um valor bate na quela expreção dentro do Any
+
+* Single: pegar um elemento q satisfaça essa condição, 
+
+  First: pegar primeiro elemento q satisfaça essa condição, 
+
+  Where: faz busca de multiplos elementos que satisfasça essa condição
+
+# Faz busca dos elementos e faz alteção
+* Select: Multiplica os eletos,
+  SelectMany: ,
+
+* OrderBy: ordem cresente, 
+
+  OrderByDescending: ordem decresente
+
+* Sun: soma de uma propriedade, 
+
+  Min: Minimo valor de uma lista, 
+
+  Max: Maximo de valor de uma lista, 
+
+  Count: Quantos elemantos uma lista tem.
+
+_______________________________________________________________________________________________
+
+               # Programação orientado a objetos, POO
+
+* C# é uma lingugem orientada a objetos, com suporte a 
+  classes e objetos 
+
+* Os três pilares da programação orientada a objetos são:
+  encapsulamento, herança, e polimorfismo.
+
+* Outros conceitos importantes em uma classe no C# são
+  construtores e campos  
+
+* Programação orientada a objetos, ou POO, é um
+  paradigma da programação cujo foco é no conceito de 
+  objetos, que contém características e comportamentos.
+
+* Essas característica geralmente são chamadas de 
+  atributos ou propriedades, e o comportamento é
+  conhecimento como método. 
+
+_______________________________________________________________________________________________
+
+                  # Encapsulamento
+
+* Técnica de esconder detalhes de implementação de uma 
+  classe
+
+* Em C#, é implementado utilizado-se modificadores de 
+  acesso.
+
+* Os modificadores de acesso são: pluclic, protected,
+  internal, protected internal, private
+
+_______________________________________________________________________________________________
+
+                   # Herança
+
+* Técnica que permite a reultilização, extensão, e
+  modificação de características e comportamentos de
+  outras classes.
+
+* A classe que é herdadas é comumente chamada de base,
+  e a classe que herdada é chamada de derivada.
+
+* Afetada por modificadores de acesso que estejam
+  aplicados á classe base. 
+
+_______________________________________________________________________________________________
+  
+                   # Polimorfidmo
+
+* Técnica que permite que objetos de classes derivadas se 
+  comportem de maneira diferentes ao da classe base.
+ 
+* Se expressa através de palavras-chave virtual e overrride,
+  sendo a primeira a que define quais comportamentos
+  poderão ser alterados na classe derivada, e override a
+  implementação do método virtual no classe derivada.
+
+
+
+
+
+
+
+       
+
+
+
